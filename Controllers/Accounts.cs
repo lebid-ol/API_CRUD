@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+using System.Security.Principal;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,39 +10,81 @@ namespace API_CRUD.Controllers
     [ApiController]
     public class Accounts : ControllerBase
     {
-        // GET: api/<Accounts>
-        [HttpGet]
-        public IEnumerable<string> GetAllAccounts()
+         static BankAccounts account1 = new BankAccounts { Id = 1, Name = "Aлександр", Balance = 1000 };
+         static BankAccounts account2 = new BankAccounts { Id = 2, Name = "Oлег", Balance = 2000 };
+       
+        public  static List<BankAccounts> allAccounts = new List<BankAccounts>();
+
+        static Accounts()
         {
-            return new string[] { "Александр", "Лебедь" };
+            AddAccountsToList();
         }
 
-        // GET api/<Accounts>/5
-        [HttpGet("{id}")]
-        public string GetAccountId([FromRoute] int id)
+        public static void AddAccountsToList()
         {
-            return "Викторович";
+            allAccounts.Add(account1);
+            allAccounts.Add(account2);
+        }
+
+
+        // GET: api/<Accounts>
+        [HttpGet]
+        public List<BankAccounts> GetAllAccounts()
+        {
+            return allAccounts;
+        }
+
+        // GET api/<Accounts>/1
+        [HttpGet("{id}")]
+        public ActionResult<BankAccounts> GetAccountId([FromRoute] int id)
+        {
+            var account = allAccounts.FirstOrDefault(a => a.Id == id);
+            if (account == null)
+            {
+                return NotFound($"Account with ID {id} not found");
+            }
+
+            return Ok(account1);
         }
 
         // POST api/<Accounts>
         [HttpPost]
-        public string Post([FromBody] string value)
+        public ActionResult <BankAccounts> Post([FromBody] BankAccounts newAccount)
         {
-            return $"Account {value} created";
+            allAccounts.Add(newAccount);
+            return Ok(newAccount);
         }
 
-        // PUT api/<Accounts>/5
+        // PUT api/<Accounts>/2
         [HttpPut("{id}")]
-        public string Put([FromRoute]int id, [FromBody] string value)
+        public ActionResult<BankAccounts> Put([FromRoute] int id, [FromBody] BankAccounts updatedAccount)
         {
-            return $"Account {id} updated to new name {value}";
+            var account = allAccounts.FirstOrDefault(a => a.Id == id);
+            if (account == null)
+            {
+                return NotFound($"Account with ID {id} not found");
+            }
+
+            account.Name = updatedAccount.Name;
+            account.Balance = updatedAccount.Balance;
+
+            return Ok(account);
         }
 
-        // DELETE api/<Accounts>/5
+        // DELETE api/<Accounts>/номер id
         [HttpDelete("{id}")]
-        public string Delete([FromRoute] int id)
+        public ActionResult<BankAccounts> DeleteAccount([FromRoute] int id)
         {
-            return $"Account with ID {id} was deleted";
+            var account = allAccounts.FirstOrDefault(a => a.Id == id);
+            if (account == null)
+            {
+                return NotFound($"Account with ID {id} not found");
+            }
+
+            allAccounts.Remove(account);
+            return Ok($"Account with ID {id} was deleted");
+
         }
     }
 }
+

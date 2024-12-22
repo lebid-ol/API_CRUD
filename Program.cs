@@ -22,6 +22,8 @@ namespace API_CRUD
             app.MapControllers();
 
             app.Run();
+
+
         }
     }
 }

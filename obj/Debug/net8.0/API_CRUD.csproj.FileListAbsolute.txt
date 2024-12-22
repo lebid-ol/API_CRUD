@@ -23,3 +23,4 @@ D:\Образование\Progects_C#\API_CRUD\obj\Debug\net8.0\refint\API_CRUD.
 D:\Образование\Progects_C#\API_CRUD\obj\Debug\net8.0\API_CRUD.pdb
 D:\Образование\Progects_C#\API_CRUD\obj\Debug\net8.0\API_CRUD.genruntimeconfig.cache
 D:\Образование\Progects_C#\API_CRUD\obj\Debug\net8.0\ref\API_CRUD.dll
+D:\Образование\Progects_C#\API_CRUD\obj\Debug\net8.0\API_CRUD.sourcelink.json
