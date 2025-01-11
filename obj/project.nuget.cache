@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3FmkiC5DmxU=",
+  "dgSpecHash": "Na5J3Jwe+84=",
   "success": true,
   "projectFilePath": "D:\\Образование\\Progects_C#\\API_CRUD\\API_CRUD.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "C:\\Users\\Александр\\.nuget\\packages\\nswag.core.yaml\\14.2.0\\nswag.core.yaml.14.2.0.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\nswag.generation\\14.2.0\\nswag.generation.14.2.0.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\nswag.generation.aspnetcore\\14.2.0\\nswag.generation.aspnetcore.14.2.0.nupkg.sha512",
-    "C:\\Users\\Александр\\.nuget\\packages\\scalar.aspnetcore\\1.2.72\\scalar.aspnetcore.1.2.72.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\scalar.aspnetcore\\1.2.75\\scalar.aspnetcore.1.2.75.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\swashbuckle.aspnetcore.redoc\\7.2.0\\swashbuckle.aspnetcore.redoc.7.2.0.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",

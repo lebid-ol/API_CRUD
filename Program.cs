@@ -1,30 +1,35 @@
 using Scalar.AspNetCore;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 namespace API_CRUD
-{
-    public class Program
-    {
-        public static void Main(string[] args)
+{        public class Program
         {
-            var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
-
-            builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddOpenApiDocument();
-
-
-            var app = builder.Build();
-
-
-            if (app.Environment.IsDevelopment())
+            public static void Main(string[] args)
             {
-                app.UseOpenApi(options =>
+                var builder = WebApplication.CreateBuilder(args);
+
+                // Добавление необходимых сервисов для Swagger
+                builder.Services.AddControllers();
+                builder.Services.AddEndpointsApiExplorer();
+                builder.Services.AddOpenApiDocument();
+                builder.Services.AddMvc();
+                builder.Services.AddSwaggerGen(c =>
                 {
-                    options.Path = "/openapi/{documentName}.json";
+                    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Custom API", Version = "v1" });
+
+                    
                 });
+     
+                var app = builder.Build();
+
+                // Включаем Swagger UI и OpenApi в режиме разработки
+                if (app.Environment.IsDevelopment())
+                {
+                    app.UseOpenApi(options =>
+                    {
+                        options.Path = "/openapi/{documentName}.json";
+                    });
                 app.MapScalarApiReference(options =>
                 {
                     // Fluent API
@@ -35,43 +40,25 @@ namespace API_CRUD
                     // Object initializer
                     options.Title = "Custom API";
                     options.ShowSidebar = false;
-
-                    
                 });
-            }
 
-            void ConfigureServices(IServiceCollection services)
-            {
-                services.AddSwaggerGen(c =>
-                {
-                    c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApiDevoTo", Version = "v1" });
-                });
-            }
 
-            void Configure(IApplicationBuilder app,
-                      IWebHostEnvironment env)
-            {
+                // Настройка Swagger UI
                 app.UseSwagger();
                 app.UseSwaggerUI(c =>
-                c.SwaggerEndpoint("/swagger/v1/swagger.json",
-                                  "WebApiDevoTo v1"));
+                {
+                        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Custom API v1");
+                        c.RoutePrefix = "swagger"; // Путь для Swagger UI
+                    });
+                }
+
+                // Стандартная конфигурация пайплайна
+                app.UseHttpsRedirection();
+                app.UseAuthorization();
+                app.MapControllers();
+
+                // Запуск приложения
+                app.Run();
             }
-
-
-            // Configure the HTTP request pipeline.
-
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-
-            app.Run();
-
-
-
         }
     }
-}

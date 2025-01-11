@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="NSwag.AspNetCore" Version="14.2.0" />
-    <PackageReference Include="Scalar.AspNetCore" Version="1.2.72" />
+    <PackageReference Include="Scalar.AspNetCore" Version="1.2.75" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.ReDoc" Version="7.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="7.2.0" />

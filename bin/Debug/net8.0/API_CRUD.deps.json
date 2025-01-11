@@ -9,7 +9,7 @@
       "API_CRUD/1.0.0": {
         "dependencies": {
           "NSwag.AspNetCore": "14.2.0",
-          "Scalar.AspNetCore": "1.2.72",
+          "Scalar.AspNetCore": "1.2.75",
           "Swashbuckle.AspNetCore": "7.2.0",
           "Swashbuckle.AspNetCore.ReDoc": "7.2.0",
           "Swashbuckle.AspNetCore.Swagger": "7.2.0"
@@ -179,11 +179,11 @@
           }
         }
       },
-      "Scalar.AspNetCore/1.2.72": {
+      "Scalar.AspNetCore/1.2.75": {
         "runtime": {
           "lib/net8.0/Scalar.AspNetCore.dll": {
-            "assemblyVersion": "1.2.72.0",
-            "fileVersion": "1.2.72.0"
+            "assemblyVersion": "1.2.75.0",
+            "fileVersion": "1.2.75.0"
           }
         }
       },
@@ -382,12 +382,12 @@
       "path": "nswag.generation.aspnetcore/14.2.0",
       "hashPath": "nswag.generation.aspnetcore.14.2.0.nupkg.sha512"
     },
-    "Scalar.AspNetCore/1.2.72": {
+    "Scalar.AspNetCore/1.2.75": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NAixkOqsJN8dcKAelA1jfHhTsDIn5EV4uopzwfJMsCjjRbbp4CY4FF+wwLRbFnt5dr0ZBqXDUN7NCNhfnDvfQA==",
-      "path": "scalar.aspnetcore/1.2.72",
-      "hashPath": "scalar.aspnetcore.1.2.72.nupkg.sha512"
+      "sha512": "sha512-UvI+NkcwU/n79IhOyLydouMzXcuqWqwXp8mmX6ZrzT4alPM3f5BsNgV40iOjqp8FRLSDtTG3WWEa/pvpQXRsUw==",
+      "path": "scalar.aspnetcore/1.2.75",
+      "hashPath": "scalar.aspnetcore.1.2.75.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/7.2.0": {
       "type": "package",

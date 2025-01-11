@@ -312,7 +312,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Scalar.AspNetCore/1.2.72": {
+      "Scalar.AspNetCore/1.2.75": {
         "type": "package",
         "compile": {
           "lib/net8.0/Scalar.AspNetCore.dll": {
@@ -1048,10 +1048,10 @@
         "nswag.generation.aspnetcore.nuspec"
       ]
     },
-    "Scalar.AspNetCore/1.2.72": {
-      "sha512": "NAixkOqsJN8dcKAelA1jfHhTsDIn5EV4uopzwfJMsCjjRbbp4CY4FF+wwLRbFnt5dr0ZBqXDUN7NCNhfnDvfQA==",
+    "Scalar.AspNetCore/1.2.75": {
+      "sha512": "UvI+NkcwU/n79IhOyLydouMzXcuqWqwXp8mmX6ZrzT4alPM3f5BsNgV40iOjqp8FRLSDtTG3WWEa/pvpQXRsUw==",
       "type": "package",
-      "path": "scalar.aspnetcore/1.2.72",
+      "path": "scalar.aspnetcore/1.2.75",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1061,7 +1061,7 @@
         "lib/net8.0/Scalar.AspNetCore.xml",
         "lib/net9.0/Scalar.AspNetCore.dll",
         "lib/net9.0/Scalar.AspNetCore.xml",
-        "scalar.aspnetcore.1.2.72.nupkg.sha512",
+        "scalar.aspnetcore.1.2.75.nupkg.sha512",
         "scalar.aspnetcore.nuspec"
       ]
     },
@@ -1202,7 +1202,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "NSwag.AspNetCore >= 14.2.0",
-      "Scalar.AspNetCore >= 1.2.72",
+      "Scalar.AspNetCore >= 1.2.75",
       "Swashbuckle.AspNetCore >= 7.2.0",
       "Swashbuckle.AspNetCore.ReDoc >= 7.2.0",
       "Swashbuckle.AspNetCore.Swagger >= 7.2.0"
@@ -1258,7 +1258,7 @@
           },
           "Scalar.AspNetCore": {
             "target": "Package",
-            "version": "[1.2.72, )"
+            "version": "[1.2.75, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

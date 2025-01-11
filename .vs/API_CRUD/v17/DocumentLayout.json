@@ -7,44 +7,16 @@
       "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\bankaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:bankaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\api_crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:api_crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\controllers\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:controllers\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\api_crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:api_crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\api_crud\\api_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E76ADF05-3FEE-4A80-A9D0-696C9DF8E79C}|API_CRUD.csproj|solutionrelative:api_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,15 +50,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T21:30:09.16Z",
+              "WhenOpened": "2025-01-11T18:26:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T18:26:10.367Z",
               "EditorCaption": ""
             },
             {
@@ -95,94 +80,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:01:12.468Z",
+              "WhenOpened": "2025-01-11T17:07:48.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Accounts.cs",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Controllers\\Accounts.cs",
-              "RelativeDocumentMoniker": "Controllers\\Accounts.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Controllers\\Accounts.cs",
-              "RelativeToolTip": "Controllers\\Accounts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:05:00.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "API_CRUD.http",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.http",
-              "RelativeDocumentMoniker": "API_CRUD.http",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.http",
-              "RelativeToolTip": "API_CRUD.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-14T21:01:05.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T21:01:48.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankAccounts.cs",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\BankAccounts.cs",
-              "RelativeDocumentMoniker": "BankAccounts.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\BankAccounts.cs",
-              "RelativeToolTip": "BankAccounts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:21:48.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:01:18.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:02:42.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -191,31 +98,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-04T22:45:03.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "API_CRUD",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.csproj",
-              "RelativeDocumentMoniker": "API_CRUD.csproj",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.csproj",
-              "RelativeToolTip": "API_CRUD.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T21:30:36.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "API_CRUD.csproj",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.csproj",
-              "RelativeDocumentMoniker": "API_CRUD.csproj",
-              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\API_CRUD\\API_CRUD.csproj",
-              "RelativeToolTip": "API_CRUD.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T21:02:02.805Z",
               "EditorCaption": ""
             }
           ]
